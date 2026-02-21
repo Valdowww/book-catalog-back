@@ -1,0 +1,7 @@
+com\catalog\book\BookCatalogApplication.class
+com\catalog\book\controller\GlobalExceptionHandler.class
+com\catalog\book\entity\Book.class
+com\catalog\book\repository\BookRepository.class
+com\catalog\book\service\BookService.class
+com\catalog\book\controller\BookController.class
+com\catalog\book\OpenApiConfig.class
